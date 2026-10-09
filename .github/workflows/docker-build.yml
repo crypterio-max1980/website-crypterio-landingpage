@@ -11,9 +11,9 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_NAME: crypto-landingpage
+  IMAGE_NAME: crypterio-landingpage
   NAMESPACE: default
-  DEPLOYMENT_NAME: crypto-landingpage
+  DEPLOYMENT_NAME: crypterio-landingpage
 
 jobs:
   build:
